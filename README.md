@@ -66,8 +66,6 @@ Some of the technologies used in the development of this web application are as 
 -   [Redux.js](https://redux.js.org/): A predictable & global state container for React apps.
 -   [Mongoose](https://mongoosejs.com/): An ODM(Object Data Modelling)library for MongoDB and Node.js
 
-## Made By
-### Prasam Jain | [📝 LinkedIn](https://www.linkedin.com/in/prasam-jain-59a45a191/)
 
 
 The blood bank website project developed by Prasam Jain is built on the MERN stack, which stands for MongoDB, Express.js, React, and Node.js. This technology stack is widely used for building robust and scalable web applications.
